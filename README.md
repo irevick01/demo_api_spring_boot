@@ -2,4 +2,4 @@
 
 
 ### What is this repository for? ###
-* Quick glance on building APIs with Spring Boot
+* Quick guide on building APIs with Spring Boot
